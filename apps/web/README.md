@@ -1,0 +1,1 @@
+Pictora AI Frontend
