@@ -4,7 +4,7 @@
   <img src="./apps/web/public/favicon.svg" alt="Pictora Logo" width="200"/>
 </p>
 
-Pictora AI is a powerful AI image platform that lets you generate stunning images and train custom AI models. Built with cutting-edge technology, it enables users to create unique AI-generated artwork and train personalized models on their own image datasets. Whether you're an artist looking to expand your creative possibilities or a developer building AI-powered image applications, Pictora AI provides an intuitive interface and robust capabilities for AI image generation and model training.
+Pictora AI is a powerful AI image platform that lets you generate stunning images and train custom AI models. Built with cutting-edge technology, it enables users to create unique AI-generated artwork and train personalized models on their own image datasets. Whether you're an artist looking to expand your creative possibilities or a developer building AI-powered image applications, Pictora AI provides an intuitive interface and robust capabilities for AI image generation and model training.ik im a piece of shit. my mom got transferred today and i was not able to do anything. the corrupt officials are charging 5 lakhs and my family is not able to offer that much of amount. ive wasted so much of my time playing around, if i was jk would've been a good son but im just a piece of shit. i dont even know how to work on this. the state im in is like a last stage of cancer and i fear im gonna turn into a failure. there are my mom and dad with so much of hope on me and here im wssting their hard earned money and still dint get respect from girls. i lost the girl i loved. turned into a failure.
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ Pictora AI is a powerful AI image platform that lets you generate stunning image
 - `@repo/ui`: Shared React component library
 - `@repo/typescript-config`: Shared TypeScript configurations
 - `@repo/eslint-config`: Shared ESLint configurations
-
+i used to skate during my primary days. i call it my prime days then i got introduced to porn and maasterbation and slowly i started witnessing my downfall.i lost everything. and now even my parents are not separated.im a failure.i fear my parents are gonna be disappointed in me if i dont suceed they have done so much for me and ive done nothing. now the condition is in such a way that im loosing my shit i create fake senarios in my mind and expect people to work as my script and they dont. i know nothing but pretend i know eveerything i front of my parents and sadly they are so innocent that they believe im good at things. ive lost every battle of my life and turned into a failure
 ## Getting Started
 
 ### Environment Setup
