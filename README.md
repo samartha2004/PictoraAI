@@ -4,7 +4,9 @@
   <img src="./apps/web/public/favicon.svg" alt="Pictora Logo" width="200"/>
 </p>
 
-Pictora AI is a powerful AI image platform that lets you generate stunning images and train custom AI models. Built with cutting-edge technology, it enables users to create unique AI-generated artwork and train personalized models on their own image datasets. Whether you're an artist looking to expand your creative possibilities or a developer building AI-powered image applications, Pictora AI provides an intuitive interface and robust capabilities for AI image generation and model training.
+Pictora AI is your gateway to breathtaking AI-generated visuals and custom-trained models—all in one seamless platform. Whether you’re an artist unleashing imagination or a dev crafting next-gen image apps, Pictora’s sleek interface and advanced engine make innovation effortless and stunningly beautiful. But Pictora AI doesn’t just stop at generation—it empowers you to build, fine-tune, and iterate with precision. With support for training on custom datasets, users can personalize models to reflect their unique vision or project needs, transforming raw ideas into expressive, one-of-a-kind results. Its streamlined workflow bridges the gap between creativity and technical depth, giving both seasoned developers and visual storytellers the tools they need to innovate faster and smarter. Whether you're exploring new artistic styles, prototyping AI-powered applications, or pushing the boundaries of what's possible with image generation, Pictora AI offers a future-ready canvas where your imagination is the only limit.
+
+
 
 ## Tech Stack
 
