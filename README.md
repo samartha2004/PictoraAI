@@ -4,9 +4,7 @@
   <img src="./apps/web/public/favicon.svg" alt="Pictora Logo" width="200"/>
 </p>
 
-Pictora AI is your gateway to breathtaking AI-generated visuals and custom-trained models—all in one seamless platform. Whether you’re an artist unleashing imagination or a dev crafting next-gen image apps, Pictora’s sleek interface and advanced engine make innovation effortless and stunningly beautiful.
-
-
+Pictora AI is the cutting-edge convergence of Generative Adversarial Networks (GANs), Diffusion Models, and Transformer Architectures—engineered to democratize photorealistic visual synthesis through state-of-the-art machine learning pipelines. Our platform harnesses the power of latent space manipulation, neural style transfer, and prompt engineering to deliver unprecedented creative autonomy.
 
 ## Tech Stack
 
